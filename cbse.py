@@ -1,5 +1,5 @@
 # Author :-Amit Verma
-# Call:- +91 7505574391
+# Phone:- +91 7505574391
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
